@@ -419,7 +419,7 @@ form .btn-enviar input {
 .input-container input:not(:placeholder-shown) + label,
 .input-container textarea:focus + label,
 .input-container textarea:not(:placeholder-shown) + label {
-    top: -2px;
+    top: 1px;
     left: 5px;
     font-size: 14px;
     color: #fff;
