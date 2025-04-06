@@ -7,7 +7,7 @@ Este é o meu portfólio pessoal, criado com o objetivo de apresentar meus proje
 - Design responsivo e clean
 - Projetos com visualização em **iframe** (como login LoL, Cordel, Memory Game e outros)
 - Seções de habilidades, sobre mim e contato
-- Totalmente feito com **HTML**, **CSS**, **JavaScript** e **Frameworks modernos**
+- Totalmente feito com **HTML**, **CSS**, **JavaScript**
 - Código limpo e organizado, pensado para fácil manutenção e leitura
 
 ## 🧠 Objetivo
