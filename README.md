@@ -18,11 +18,7 @@ Este portfólio reflete meu aprendizado contínuo em **desenvolvimento web**, ta
 
 - HTML5  
 - CSS3  
-- JavaScript  
-- Vite  
-- React  
-- Vue.js  
-- Docker (em estudos)  
+- JavaScript 
 
 ## 📫 Entre em contato
 
